@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "붐바야(Boombayah)",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-27T15:44:29.005276Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "붐바야 (BOOMBAYAH)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_붐바야_(BOOMBAYAH)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "붐바야(Boombayah)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_붐바야(Boombayah)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "붐바야 (BOOMBAYAH) [Live]",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_붐바야_(BOOMBAYAH)_[Live]_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "붐바야 Boombayah (Live)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_붐바야_Boombayah_(Live)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "붐바야 (Boombayah) (Live)",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/05_붐바야_(Boombayah)_(Live)_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "붐바야 (BOOMBAYAH) - Japanese Version",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/06_붐바야_(BOOMBAYAH)_-_Japanese_Version_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "붐바야(Boombayah)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_붐바야(Boombayah)_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "붐바야",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_붐바야_BLACKPINK.txt"
+    }
+  ]
+}
